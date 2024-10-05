@@ -93,12 +93,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note**: Your IP is being monitored for security reasons. If you experience any issues, please reach out to the repository owner.
-
-
-### Instructions to Use
-1. Copy the above markdown text.
-2. Create a new file named `README.md` in your project root.
-3. Paste the copied content into the `README.md` file.
-4. Save the file.
-
-Feel free to modify any sections as needed! Let me know if you need further assistance or additional changes!
