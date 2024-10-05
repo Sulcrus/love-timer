@@ -1,6 +1,4 @@
-Sure! Here’s an expanded version of the `README.md` that includes detailed sections for **Usage**, **Technologies**, **Contributing**, **License**, and **Instructions to Use**.
 
-```markdown
 # Love Timer
 
 A heartfelt countdown timer that tracks the days since a breakup, featuring romantic quotes and a soothing music playlist to accompany the journey of healing.
@@ -95,7 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note**: Your IP is being monitored for security reasons. If you experience any issues, please reach out to the repository owner.
-```
+
 
 ### Instructions to Use
 1. Copy the above markdown text.
